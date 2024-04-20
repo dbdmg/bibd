@@ -1,9 +1,4 @@
-<div align="center">
-  <h1>Business Intelligence per Big Data</h1>
-  <a href="https://github.com/dbdmg/bibd/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
-  .
-  <a href="https://github.com/dbdmg/bibd/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+">Ask a Question</a>
-</div>
+<h1 align="center">Business Intelligence per Big Data</h1>
 
 <div align="center">
 <br />
