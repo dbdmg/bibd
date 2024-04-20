@@ -1,9 +1,8 @@
 <h1 align="center">Business Intelligence per Big Data</h1>
 
 <div align="center">
-<br />
 
-[![Project license](https://img.shields.io/github/license/dbdmg/bibd.svg?style=flat-square)](LICENSE)
+[![Project license](https://img.shields.io/github/license/dbdmg/bibd?style=flat)](LICENSE)
 
 </div>
 
